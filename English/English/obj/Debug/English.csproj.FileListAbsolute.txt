@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\English\English\bin\Debug\English.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\English\English\bin\Debug\English.exe
+c:\users\admin\documents\visual studio 2015\Projects\English\English\bin\Debug\English.pdb
+c:\users\admin\documents\visual studio 2015\Projects\English\English\obj\Debug\English.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\English\English\obj\Debug\English.exe
+c:\users\admin\documents\visual studio 2015\Projects\English\English\obj\Debug\English.pdb

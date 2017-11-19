@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\Results2\Results2\bin\Debug\Results2.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Results2\Results2\bin\Debug\Results2.exe
+c:\users\admin\documents\visual studio 2015\Projects\Results2\Results2\bin\Debug\Results2.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Results2\Results2\obj\Debug\Results2.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Results2\Results2\obj\Debug\Results2.exe
+c:\users\admin\documents\visual studio 2015\Projects\Results2\Results2\obj\Debug\Results2.pdb

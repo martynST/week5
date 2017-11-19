@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2015\Projects\CalculatorRadio\CalculatorRadio\bin\Debug\CalculatorRadio.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\CalculatorRadio\CalculatorRadio\bin\Debug\CalculatorRadio.exe
+c:\users\admin\documents\visual studio 2015\Projects\CalculatorRadio\CalculatorRadio\bin\Debug\CalculatorRadio.pdb
+c:\users\admin\documents\visual studio 2015\Projects\CalculatorRadio\CalculatorRadio\obj\Debug\CalculatorRadio.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\CalculatorRadio\CalculatorRadio\obj\Debug\CalculatorRadio.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\CalculatorRadio\CalculatorRadio\obj\Debug\CalculatorRadio.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\CalculatorRadio\CalculatorRadio\obj\Debug\CalculatorRadio.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\CalculatorRadio\CalculatorRadio\obj\Debug\CalculatorRadio.exe
+c:\users\admin\documents\visual studio 2015\Projects\CalculatorRadio\CalculatorRadio\obj\Debug\CalculatorRadio.pdb
+c:\users\admin\documents\visual studio 2015\Projects\CalculatorRadio\CalculatorRadio\obj\Debug\CalculatorRadio.Form2.resources

@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\OccilatingTextBox\OccilatingTextBox\bin\Debug\OccilatingTextBox.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\OccilatingTextBox\OccilatingTextBox\bin\Debug\OccilatingTextBox.exe
+c:\users\admin\documents\visual studio 2015\Projects\OccilatingTextBox\OccilatingTextBox\bin\Debug\OccilatingTextBox.pdb
+c:\users\admin\documents\visual studio 2015\Projects\OccilatingTextBox\OccilatingTextBox\obj\Debug\OccilatingTextBox.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\OccilatingTextBox\OccilatingTextBox\obj\Debug\OccilatingTextBox.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\OccilatingTextBox\OccilatingTextBox\obj\Debug\OccilatingTextBox.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\OccilatingTextBox\OccilatingTextBox\obj\Debug\OccilatingTextBox.exe
+c:\users\admin\documents\visual studio 2015\Projects\OccilatingTextBox\OccilatingTextBox\obj\Debug\OccilatingTextBox.pdb
+c:\users\admin\documents\visual studio 2015\Projects\OccilatingTextBox\OccilatingTextBox\obj\Debug\OccilatingTextBox.csprojResolveAssemblyReference.cache

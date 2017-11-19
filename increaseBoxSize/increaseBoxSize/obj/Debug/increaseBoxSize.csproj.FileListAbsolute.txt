@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2015\Projects\increaseBoxSize\increaseBoxSize\bin\Debug\increaseBoxSize.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\increaseBoxSize\increaseBoxSize\bin\Debug\increaseBoxSize.exe
+c:\users\admin\documents\visual studio 2015\Projects\increaseBoxSize\increaseBoxSize\bin\Debug\increaseBoxSize.pdb
+c:\users\admin\documents\visual studio 2015\Projects\increaseBoxSize\increaseBoxSize\obj\Debug\increaseBoxSize.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\increaseBoxSize\increaseBoxSize\obj\Debug\increaseBoxSize.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\increaseBoxSize\increaseBoxSize\obj\Debug\increaseBoxSize.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\increaseBoxSize\increaseBoxSize\obj\Debug\increaseBoxSize.exe
+c:\users\admin\documents\visual studio 2015\Projects\increaseBoxSize\increaseBoxSize\obj\Debug\increaseBoxSize.pdb

@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\ResultsCalculator\ResultsCalculator\bin\Debug\ResultsCalculator.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\ResultsCalculator\ResultsCalculator\bin\Debug\ResultsCalculator.exe
+c:\users\admin\documents\visual studio 2015\Projects\ResultsCalculator\ResultsCalculator\bin\Debug\ResultsCalculator.pdb
+c:\users\admin\documents\visual studio 2015\Projects\ResultsCalculator\ResultsCalculator\obj\Debug\ResultsCalculator.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\ResultsCalculator\ResultsCalculator\obj\Debug\ResultsCalculator.exe
+c:\users\admin\documents\visual studio 2015\Projects\ResultsCalculator\ResultsCalculator\obj\Debug\ResultsCalculator.pdb
